@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/db1_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+     >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_weight="0.02"
+        android:gravity="center"
+        android:text="@string/autorApp"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text="@string/agraiments"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="0.48"
+        android:layout_marginTop="5dp"
+        android:gravity="center|top"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.02"
+            android:layout_marginLeft="20dp"
+        	android:layout_marginRight="20dp"
+            android:gravity="center|top"
+            android:text="@string/enviarDubtes"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+        
+        <Button
+            android:id="@+id/btnCompartir"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="150dp"
+            android:layout_height="60dp"
+            android:text="@string/comparteix"
+            android:drawableLeft="@drawable/share_button"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/btnEnviarCorreu"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="150dp"
+            android:layout_height="60dp"
+            android:layout_marginBottom="30dp"
+            android:text="@string/enviarCorreu"
+            android:drawableLeft="@drawable/mail_button"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</LinearLayout>
+<!-- From: file:/C:/Users/Joan/AndroidstudioProjects/SlidingMenu1/app/src/main/res/layout/sobremi.xml -->

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+     >
+    
+	<LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:orientation="vertical" >
+
+	    <RelativeLayout
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent"
+		    android:orientation="horizontal" >
+	    
+		    <TextView
+		        android:id="@+id/titolNomCarrer"
+		        style="@style/tvtitolsList"
+		        android:text="@string/titolNomCarrer" />
+
+		    <ImageButton
+		        android:id="@+id/ibMapa"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_alignParentRight="true"
+		        android:layout_marginLeft="10dp"
+		        android:layout_marginRight="15dp"
+		        android:src="@drawable/map_icon" />
+		    
+		    </RelativeLayout>
+
+	    
+	    <TextView
+	        android:id="@+id/tvNomCarrer"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10sp"
+	        android:layout_marginTop="0sp"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+	    <TextView
+	        android:id="@+id/titolDescripcio"
+	        style="@style/tvtitolsList"
+	        android:text="@string/titolDescripcio" />
+
+	    <TextView
+	        android:id="@+id/tvDescripcio"
+	        style="@style/tvDadesLlista"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />
+	    
+	    <TextView
+	        android:id="@+id/titolFont"
+	        style="@style/tvtitolsList"
+	        android:text="@string/titolFont" />
+
+	    <TextView
+	        android:id="@+id/tvFont"
+	        style="@style/tvDadesLlista"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+	    <TextView
+	        android:id="@+id/titolData"
+	        style="@style/tvtitolsList"
+	        android:text="@string/titolData" />
+
+	    <TextView
+	        android:id="@+id/tvData"
+	        style="@style/tvDadesLlista"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+	    <TextView
+	        android:id="@+id/titolNomsAnteriors"
+	        style="@style/tvtitolsList"
+	        android:text="@string/titolNomsAnteriors" />
+
+	    <TextView
+	        android:id="@+id/tvNomsAnteriors"
+	        style="@style/tvDadesLlista"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+	    <TextView
+	        android:id="@+id/titolDistrictes"
+	        style="@style/tvtitolsList"
+	        android:text="@string/titolDistrictes" />
+
+	    <TextView
+	        android:id="@+id/tvDistrictes"
+	        style="@style/tvDadesLlista"
+	        android:layout_marginBottom="10sp"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+	</LinearLayout>
+
+</ScrollView><!-- From: file:/C:/Users/Joan/AndroidstudioProjects/SlidingMenu1/app/src/main/res/layout/explicacio_carrer.xml -->

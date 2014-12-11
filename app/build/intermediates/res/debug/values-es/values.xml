@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/Joan/AndroidstudioProjects/SlidingMenu1/app/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <array name="nav_drawer_icons">
+		<item>@drawable/ic_home</item>
+		<item>@drawable/index_bar</item>
+		<item>@drawable/favourite_color</item>
+		<item>@drawable/aboutme_bar</item>
+		<item>@drawable/exit_bar</item>
+	</array>
+    <string-array name="nav_drawer_items">
+		<item>Inicio</item>
+		<item>Índice</item>
+		<item>Favoritos</item>
+		<item>Sobre mí</item>
+		<item>Salir</item>
+	</string-array>
+    <string name="DetallsCarrerFTitol">Detalles</string>
+    <string name="FavoritsFTitol">Favoritos</string>
+    <string name="IndexFTitol">Índice</string>
+    <string name="MapaCarrerFTitol">Localización</string>
+    <string name="PreferenciesFTitol">Preferencias</string>
+    <string name="acceptarDialog">Aceptar</string>
+    <string name="action_afegirCarrer">Marcar como favorito</string>
+    <string name="action_esborrar">Borrar todos los favoritos</string>
+    <string name="action_esborrarCarrer">Borrar de favoritos</string>
+    <string name="action_settings">Opciones</string>
+    <string name="afegitOK">añadido a favoritos</string>
+    <string name="agraiments">Agradecimientos: a Jesús Portavella, doctor arquitecto que ha hecho la investigación y ha documentado todas las calles visibles en esta aplicación.</string>
+    <string name="appConeixBcn">Aplicación \'Coneix Barcelona\' </string>
+    <string name="app_name">Coneix Barcelona</string>
+    <string name="autorApp">Aplicación realizada por Joan Ignasi Gil. </string>
+    <string name="benvingutDialog">Bienvenido!</string>
+    <string name="campBusqueda">Escribe el nombre de la calle</string>
+    <string name="cancelButton">Cancela</string>
+    <string name="capturaImgOptions">Hacer captura del mapa</string>
+    <string name="capturaNoOK">Error al realitzar la captura de pantalla</string>
+    <string name="capturaOK">Captura de imagen realitzada correctamente</string>
+    <string name="carregantInfo">Cargando información...</string>
+    <string name="carrerNoTrobat">No se ha encontrado la calle </string>
+    <string name="carrersEsborrats">Se han borrado todas las calles de los favoritos</string>
+    <string name="cercador">Buscador</string>
+    <string name="comfirmarElPregunta">Estás seguro que lo quieres eliminar?</string>
+    <string name="comfirmarEliminar">Confirmar la eliminación...</string>
+    <!-- From: file:/C:/Users/Joan/AndroidstudioProjects/SlidingMenu1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-es/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Una aplicación necesita que Android Wear se actualice."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Esta aplicación no se ejecutará hasta que actualices Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Actualizar Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Habilitar servicios de Google Play"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Esta aplicación no funcionará si no habilitas los servicios de Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Habilitar servicios de Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Solicitada por <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Descargar servicios de Google Play"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Esta aplicación no se ejecutará si tu teléfono no tiene instalados los servicios de Google Play."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Esta aplicación no se ejecutará si tu tablet no tiene instalados los servicios de Google Play."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Descargar servicios de Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"La cuenta especificada no existe en este dispositivo. Selecciona otra cuenta."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Cuenta no válida"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Una aplicación requiere que se habiliten los servicios de Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Se necesita una conexión de datos para establecer conexión con los servicios de Google Play."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Error de red"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Una aplicación requiere la instalación de servicios de Google Play."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Una aplicación requiere una actualización de servicios de Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Error de servicios de Google Play"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Error desconocido relacionado con los servicios de Google Play"</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Tu dispositivo no es compatible con los servicios de Google Play, de los cuales dependen tus aplicaciones. Para obtener asistencia, ponte en contacto el fabricante."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Servicios de Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Actualizar"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Esta aplicación no se ejecutará si no actualizas los servicios de Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Actualizar servicios de Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Abrir en teléfono"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Iniciar sesión"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Iniciar sesión con Google"</string>
+    <!-- From: file:/C:/Users/Joan/AndroidstudioProjects/SlidingMenu1/app/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="comparteix">Compartir</string>
+    <string name="deleteButton">Elimina</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="eliminatOK">eliminado de favoritos</string>
+    <string name="eliminatOKBD">eliminado correctamente</string>
+    <string name="enviarCorreu">Enviar correo</string>
+    <string name="enviarDubtes">Podéis enviar cualquier duda o sugerencia por correo electrónico. Muchas gracias!</string>
+    <string name="exit">Salir</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="idiomaAngles">Inglés</string>
+    <string name="idiomaCastella">Español</string>
+    <string name="idiomaCatala">Catalán</string>
+    <string name="idiomaSummary">Escoge el idioma de los contenidos de la aplicación</string>
+    <string name="idiomaTitle">Idioma</string>
+    <string name="idiomaTitle2">Idioma de la aplicación</string>
+    <string name="index_carrers">Índice de calles</string>
+    <string name="internetConection">No hay conexión a internet o la conexión es insuficiente.</string>
+    <string name="missatgeDialog">Gracias por utilizar esta aplicación. Pulsando el icono de la app (arriba a la izquierda) se abrirá el menú que os permitirá moveros por los diferentes apartados</string>
+    <string name="noInternetConection">No hay conexión a internet o es muy leve. Comprueba si tienes el 3G, 4G o Wifi activados</string>
+    <string name="noMostrarMesDialog">No mostrar más</string>
+    <string name="premPerSortir">Pulse otra vez para salir</string>
+    <string name="recomanaAppConeixBcn">La aplicación \'Coneix Barcelona\' es muy interesante! Pruébala! </string>
+    <string name="registresAnteriors">No hay registros anteriores. </string>
+    <string name="registresAnteriors2">Viendo uno de las calles de Barcelona en la aplicación \'Coneix Barcelona\' </string>
+    <string name="share">Compartir</string>
+    <string name="sobre_mi">Sobre mí</string>
+    <string name="titolData">Fecha de aprobación</string>
+    <string name="titolDescripcio">Descripción</string>
+    <string name="titolDistrictes">Distritos</string>
+    <string name="titolFont">Fuente</string>
+    <string name="titolMapa">Ubicación</string>
+    <string name="titolNomCarrer">Nombre</string>
+    <string name="titolNomsAnteriors">Nombres anteriores</string>
+    <string name="titol_app">Coneix Barcelona</string>
+    <string name="toastSeleccio">seleccionado. Vuelve a la pantalla inicial para hacer efectivo el cambio de idioma. 
+        							Los favoritos guardados del anterior idioma no se perderan</string>
+    <!-- From: file:/C:/Users/Joan/AndroidstudioProjects/SlidingMenu1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-es/wallet_strings.xml -->
+    <eat-comment/>
+    <string name="wallet_buy_button_place_holder">Comprar con Google</string>
+</resources>

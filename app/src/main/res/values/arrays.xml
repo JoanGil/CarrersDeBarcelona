@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<string-array name="Idiomas">
+		  <item>@string/idiomaCatala</item>
+		  <item>@string/idiomaCastella</item>
+		  <item>@string/idiomaAngles</item>
+	</string-array>
+	
+	<string-array name="ValoresIdiomas" >
+		  <item>0</item>
+		  <item>1</item>
+		  <item>2</item>
+	</string-array>
+	
+	<string-array name="iniciPantalla" >
+		  <item>true</item>
+		  <item>false</item>
+	</string-array>
+	
+
+</resources>

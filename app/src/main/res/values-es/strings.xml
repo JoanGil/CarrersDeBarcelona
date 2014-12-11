@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- Strings generals -->
+	<!--<string name="app_name">Coneix Barcelona</string> -->
+	<!--<string name="action_settings">Opcions</string> -->
+	<string name="titol_app">Coneix Barcelona</string>
+	<string name="index_carrers">Índice de calles</string>
+	<string name="cercador">Buscador</string>
+	<string name="sobre_mi">Sobre mí</string>
+	<string name="exit">Salir</string>
+	<string name="share">Compartir</string>
+	
+	<!-- Titols -->
+    <string name="MapaCarrerFTitol">Localización</string>
+    <string name="IndexFTitol">Índice</string>
+    <string name="DetallsCarrerFTitol">Detalles</string>
+    <string name="FavoritsFTitol">Favoritos</string>
+	<string name="PreferenciesFTitol">Preferencias</string>
+    
+    <!-- Carrers.java -->
+	<string name="campBusqueda">Escribe el nombre de la calle</string>
+	<string name="internetConection">No hay conexión a internet o la conexión es insuficiente.</string>
+	
+    <!-- DetallsCarrer.java -->
+	<string name="titolNomCarrer">Nombre</string>
+	<string name="titolDescripcio">Descripción</string>
+	<string name="titolFont">Fuente</string>
+	<string name="titolData">Fecha de aprobación</string>
+	<string name="titolNomsAnteriors">Nombres anteriores</string>
+	<string name="titolDistrictes">Distritos</string>
+	<string name="titolMapa">Ubicación</string>
+	
+	<string name="carregantInfo">Cargando información...</string>
+	<string name="registresAnteriors">No hay registros anteriores. </string>
+	<string name="registresAnteriors2">Viendo uno de las calles de Barcelona en la aplicación \'Coneix Barcelona\' </string>
+	<string name="noInternetConection">No hay conexión a internet o es muy leve. Comprueba si tienes el 3G, 4G o Wifi activados</string>
+    <string name="eliminatOK">eliminado de favoritos</string>
+    <string name="afegitOK">añadido a favoritos</string>
+	
+    <!-- MapaCarrer.java -->
+	<string name="carrerNoTrobat">No se ha encontrado la calle </string>
+	<string name="capturaImgOptions">Hacer captura del mapa</string>
+	<string name="capturaOK">Captura de imagen realitzada correctamente</string>
+    <string name="capturaNoOK">Error al realitzar la captura de pantalla</string>
+
+    <!-- FavoritsFragment.java -->
+    <string name="carrersEsborrats">Se han borrado todas las calles de los favoritos</string>
+    <string name="comfirmarEliminar">Confirmar la eliminación...</string>
+    <string name="comfirmarElPregunta">Estás seguro que lo quieres eliminar?</string>
+    <string name="cancelButton">Cancela</string>
+    <string name="deleteButton">Elimina</string>
+    <string name="eliminatOKBD">eliminado correctamente</string>
+    
+    <!-- SobreMi.java -->
+	<string name="appConeixBcn">Aplicación \'Coneix Barcelona\' </string>
+	<string name="recomanaAppConeixBcn">La aplicación \'Coneix Barcelona\' es muy interesante! Pruébala! </string>
+	<string name="enviarCorreu">Enviar correo</string>
+	
+    <!-- sobremi.xml -->
+	<string name="autorApp">Aplicación realizada por Joan Ignasi Gil. </string>
+	<string name="agraiments">Agradecimientos: a Jesús Portavella, doctor arquitecto que ha hecho la investigación y ha documentado todas las calles visibles en esta aplicación.</string>
+	<string name="enviarDubtes">Podéis enviar cualquier duda o sugerencia por correo electrónico. Muchas gracias!</string>
+	<string name="comparteix">Compartir</string>
+	
+	<string name="app_name">Coneix Barcelona</string>
+	<string name="action_settings">Opciones</string>
+	<string name="action_esborrar">Borrar todos los favoritos</string>
+	<string name="action_afegirCarrer">Marcar como favorito</string>
+    <string name="action_esborrarCarrer">Borrar de favoritos</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="drawer_open">Slider Menu Opened</string>
+	<string name="drawer_close">Slider Menu Closed</string>
+	
+	<!-- Preferencies.xml i Preferencies.java -->
+    <string name="idiomaTitle">Idioma</string>
+    <string name="idiomaTitle2">Idioma de la aplicación</string>
+    <string name="idiomaSummary">Escoge el idioma de los contenidos de la aplicación</string>
+    <string name="idiomaCatala">Catalán</string>
+    <string name="idiomaCastella">Español</string>
+    <string name="idiomaAngles">Inglés</string>
+    <string name="toastSeleccio">seleccionado. Vuelve a la pantalla inicial para hacer efectivo el cambio de idioma. 
+        							Los favoritos guardados del anterior idioma no se perderan</string>
+    <!-- Nav Drawer Menu Items -->
+	<string-array name="nav_drawer_items">
+		<item >Inicio</item>
+		<item >Índice</item>
+		<item >Favoritos</item>
+		<item >Sobre mí</item>
+		<item >Salir</item>
+	</string-array>
+	
+	<!-- MainActivity.java -->
+    <string name="premPerSortir">Pulse otra vez para salir</string>
+        <string name="noMostrarMesDialog">No mostrar más</string>
+    <string name="benvingutDialog">Bienvenido!</string>
+    <string name="missatgeDialog">Gracias por utilizar esta aplicación. Pulsando el icono de la app (arriba a la izquierda) se abrirá el menú que os permitirá moveros por los diferentes apartados</string>
+    <string name="acceptarDialog">Aceptar</string>
+    
+	
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+	<array name="nav_drawer_icons">
+		<item>@drawable/ic_home</item>
+		<item>@drawable/index_bar</item>
+		<item>@drawable/favourite_color</item>
+		<item>@drawable/aboutme_bar</item>
+		<item>@drawable/exit_bar</item>
+	</array>
+	
+    <!-- Content Description -->
+	<string name="desc_list_item_icon">Item Icon</string>
+
+</resources>
+
