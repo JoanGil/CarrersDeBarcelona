@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/Joan/AndroidstudioProjects/SlidingMenu1/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/C:/Users/Joan/AndroidstudioProjects/CarrersDeBarcelona/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <array name="nav_drawer_icons">
 		<item>@drawable/ic_home</item>

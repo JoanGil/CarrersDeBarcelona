@@ -120,7 +120,7 @@ public class MainActivity extends Activity {
 		
 		// **
 		//This only happens once. The second time the value is false and doesn't affect.
-		// Posar el valor de la preferencia com tens l'idioma al mòbil
+		// Posar el valor de la preferencia com tens l'idioma al mï¿½bil
 		if (!prefs.getBoolean("firstTime", false)) {
 			//Posar idioma com toca.
 			Locale loc = getResources().getConfiguration().locale;
@@ -178,7 +178,7 @@ public class MainActivity extends Activity {
 		checkBox.setOnCheckedChangeListener(new OnCheckedChangeListener() {
 		    @Override
 		    public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-		    	if (isChecked == true) {
+		    	if (isChecked) {
 		    		SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
 		    		SharedPreferences.Editor editor = prefs.edit();	
 		    		editor.putBoolean("dialogFirstTime", true);

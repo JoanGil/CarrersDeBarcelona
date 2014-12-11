@@ -1,5 +1,5 @@
-C:\Users\Joan\AndroidstudioProjects\SlidingMenu1\app\build\intermediates\classes\debug
-C:\Users\Joan\AndroidstudioProjects\SlidingMenu1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-b4d452d4284bdf35076248e5548e565272521077.jar
-C:\Users\Joan\AndroidstudioProjects\SlidingMenu1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-163a6ef768c623f1b6219b4719d661f623257f72.jar
-C:\Users\Joan\AndroidstudioProjects\SlidingMenu1\app\build\intermediates\pre-dexed\debug\classes-d3bfabd8966997eafc62f23eecabd05e3a1bdf8c.jar
-C:\Users\Joan\AndroidstudioProjects\SlidingMenu1\app\build\intermediates\pre-dexed\debug\classes-f5f0bc21771a48f66a8d75166cf32de4f67d997b.jar
+C:\Users\Joan\AndroidstudioProjects\CarrersDeBarcelona\app\build\intermediates\classes\debug
+C:\Users\Joan\AndroidstudioProjects\CarrersDeBarcelona\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-b4d452d4284bdf35076248e5548e565272521077.jar
+C:\Users\Joan\AndroidstudioProjects\CarrersDeBarcelona\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-b0003d8079bcb9b5352f648fc7b2f92160c9f6fb.jar
+C:\Users\Joan\AndroidstudioProjects\CarrersDeBarcelona\app\build\intermediates\pre-dexed\debug\classes-9cd2d2013aec6af6a03732d38783390eeb8c1a20.jar
+C:\Users\Joan\AndroidstudioProjects\CarrersDeBarcelona\app\build\intermediates\pre-dexed\debug\classes-0ec74e9cef1c61bdc78cc920bfa78b3c43012aab.jar
